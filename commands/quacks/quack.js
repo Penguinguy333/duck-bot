@@ -16,4 +16,4 @@ class Quack extends commando.Command {
     }
 }
 
-module.exports = Quack;
+module.exports = sans;
