@@ -1,7 +1,7 @@
 {
-  "name": "duckbot",
+  "name": "SansGamingYT",
   "version": "1.0.0",
-  "description": "",
+  "description": "despacito",
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.2.1",
