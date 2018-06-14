@@ -16,4 +16,4 @@ class Quak extends commando.Command {
     }
 }
 
-module.exports = Quak;
+module.exports = san;
